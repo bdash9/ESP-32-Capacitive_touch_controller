@@ -2,7 +2,7 @@
 
 Spoiler...this isn't an actual functional game with a touch controller.
 
-[IMG_5073](https://user-images.githubusercontent.com/5065324/216431662-1ca4d253-7bb1-4cb9-b417-4a593d78cc8a.jpeg)
+![IMG_5073](https://user-images.githubusercontent.com/5065324/216431934-dae64a55-46f2-4efd-8179-1798ace13f3b.jpeg)
 
 ESP32-Capacative_touch_test.ino is a script that enable two pins on the Adafruit ESP-32-S2 TFT Feather for touch sensing as well as lighting up the red LED.
 
